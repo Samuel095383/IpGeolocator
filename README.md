@@ -1,7 +1,7 @@
 IP GEOLOCATOR
 ===============
 Uso
-----------------
+---------
 per usare l'applicazione: andare sulle [releases]([https://github.com/Samuel095383/IpGeolocator/release](https://github.com/Samuel095383/IpGeolocator/releases/ "release page") scarcare l'ultima, installarla ed il gioco è fatto.
 
 Licenza
