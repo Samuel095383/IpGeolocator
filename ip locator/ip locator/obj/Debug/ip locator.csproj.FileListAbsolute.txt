@@ -1,0 +1,14 @@
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\ip locator.exe.config
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\ip locator.exe
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\ip locator.pdb
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.csproj.AssemblyReference.cache
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.exe
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.pdb
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.csproj.Up2Date
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\ip locator.exe.manifest
+C:\Users\samuel\source\repos\ip locator\ip locator\bin\Debug\ip locator.application
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.exe.manifest
+C:\Users\samuel\source\repos\ip locator\ip locator\obj\Debug\ip locator.application
